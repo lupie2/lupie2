@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Lukas!
+
+I'm a data analyst from Düsseldorf, Germany. Eager to learn and get better at analytics and prediction.
+
+🔭 I’m currently working on 
+    - [a model trying to predict NFL matches](https://github.com/lupie2/nfl_prediction)
+
+🌱 I’m currently learning 
+    - statistics
+    - football basics
+    - game development and design in Godot
 
 <!--
 **lupie2/lupie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
