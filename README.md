@@ -2,12 +2,12 @@
 
 I'm a data analyst from Düsseldorf, Germany. Eager to learn and get better at analytics and prediction.
 
-🔭 I’m currently working on 
+🔭 I’m currently working on\
     - [a model trying to predict NFL matches](https://github.com/lupie2/nfl_prediction)
 
-🌱 I’m currently learning 
-    - statistics
-    - football basics
+🌱 I’m currently learning\
+    - statistics\
+    - football basics\
     - game development and design in Godot
 
 <!--
