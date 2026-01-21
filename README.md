@@ -3,7 +3,7 @@
 I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python and SQL, I'm always eager to learn and get better.
 
 🔭 I’m currently working on\
-    - [a model trying to predict NFL matches](https://github.com/lupie2/nfl_prediction)
+    - [a model trying to predict NFL matches](https://github.com/lupie2/nfl_prediction)\
     - [a program to search digits of pi for a given string](https://github.com/lupie2/pi_finder)
 
 🌱 I’m currently learning\
