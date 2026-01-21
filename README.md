@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lukas!
 
-I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python and its libraries, I'm always eager to learn and get better.
+I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python and SQL, I'm always eager to learn and get better.
 
 🔭 I’m currently working on\
     - [a model trying to predict NFL matches](https://github.com/lupie2/nfl_prediction)
