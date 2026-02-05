@@ -4,12 +4,12 @@ I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python
 
 🔭 I’m currently working on\
     - [a model trying to predict NFL matches](https://github.com/lupie2/nfl_prediction)\
+    - [game development and design in Godot](https://github.com/lupie2/frogger_tutorial)
     - [a program to search digits of pi for a given string](https://github.com/lupie2/pi_finder)
 
 🌱 I’m currently learning\
     - statistics\
     - football basics\
-    - [game development and design in Godot](https://github.com/lupie2/frogger_tutorial)
 
 📊 Past projects\
     - [analysing and visualising survivor data from the Titanic](https://github.com/lupie2/school/blob/main/scr/Titanic_Tagesaufgabe.ipynb)\
