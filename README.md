@@ -9,12 +9,12 @@ I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python
 
 🌱 I’m currently learning\
     - statistics\
-    - football basics\
+    - football basics
 
 📊 Past projects\
     - [analysing and visualising survivor data from the Titanic](https://github.com/lupie2/school/blob/main/scr/Titanic_Tagesaufgabe.ipynb)\
     - [training a model to predict palmer penguin species](https://github.com/lupie2/school/blob/main/scr/penguins_pietsch.ipynb)\
-    - [little website containing recipes](https://github.com/lupie2/javascript)\
+    - [little website containing recipes](https://github.com/lupie2/javascript)
 
 <!--
 **lupie2/lupie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
