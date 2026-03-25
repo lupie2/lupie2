@@ -8,7 +8,7 @@ I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python
 
 🌱 I’m currently learning\
     - statistics\
-    - football basics
+    - Godot\
 
 📊 Past projects\
     - [analysing and visualising survivor data from the Titanic](https://github.com/lupie2/school/blob/main/scr/Titanic_Tagesaufgabe.ipynb)\
