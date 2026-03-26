@@ -3,7 +3,9 @@
 I'm a data and business analyst from Düsseldorf, Germany. Experienced in Python and SQL, I'm always eager to learn and get better.
 
 🔭 I’m currently working on\
+    - [a script to find the most isolated populated place in a given county using OpenStreetMap](https://github.com/lupie2/geolocation_project)\
     - [game development and design in Godot](https://github.com/lupie2/frogger_tutorial)\
+        - [first game Ballpoint Destroyer also on itch.io](https://lupiedev.itch.io/ballpoint-destroyer)\
     - [a program to search digits of pi for a given string](https://github.com/lupie2/pi_finder)
 
 🌱 I’m currently learning\
